@@ -1,0 +1,14 @@
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\bin\Debug\netcoreapp2.1\QuangDemoAPI.deps.json
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\bin\Debug\netcoreapp2.1\QuangDemoAPI.runtimeconfig.json
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\bin\Debug\netcoreapp2.1\QuangDemoAPI.runtimeconfig.dev.json
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\bin\Debug\netcoreapp2.1\QuangDemoAPI.dll
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\obj\Debug\netcoreapp2.1\QuangDemoAPI.csprojAssemblyReference.cache
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\obj\Debug\netcoreapp2.1\QuangDemoAPI.csproj.CoreCompileInputs.cache
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\obj\Debug\netcoreapp2.1\QuangDemoAPI.RazorAssemblyInfo.cache
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\obj\Debug\netcoreapp2.1\QuangDemoAPI.RazorAssemblyInfo.cs
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\obj\Debug\netcoreapp2.1\QuangDemoAPI.AssemblyInfoInputs.cache
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\obj\Debug\netcoreapp2.1\QuangDemoAPI.AssemblyInfo.cs
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\obj\Debug\netcoreapp2.1\QuangDemoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\bin\Debug\netcoreapp2.1\QuangDemoAPI.pdb
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\obj\Debug\netcoreapp2.1\QuangDemoAPI.dll
+C:\Users\tomki\OneDrive\Desktop\QuangDemoAPI\QuangDemoAPI\obj\Debug\netcoreapp2.1\QuangDemoAPI.pdb
